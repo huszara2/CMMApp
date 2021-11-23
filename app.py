@@ -12,7 +12,7 @@ st.write("""
 # CoverMyMeds - PA Approval Chances
 """)
 
-st.write("This project was done as part of the Erdos Data Science bootcamp Fall 2021. The data was provided by CoverMyMeds.")
+st.write("This project was done as part of the Erdos Data Science bootcamp Fall 2021. The data was provided by CoverMyMeds. Project authors: Alana Huszar, Sanal Shivaprasad, Yueqiao Wu, Yili Zhang")
 
 st.header("User Information")
 
